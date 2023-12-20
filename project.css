@@ -1,0 +1,21 @@
+table,tr,td,th{
+    border:2px solid green;
+    border-collapse: collapse;
+}
+
+table{
+    margin-bottom: 20px;
+}
+ul li{
+    margin-bottom: 20px;
+}
+
+td:hover
+{
+    color:red;
+}
+
+th:hover
+{
+    color:white;
+}

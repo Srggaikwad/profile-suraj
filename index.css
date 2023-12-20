@@ -1,0 +1,38 @@
+
+
+header {
+    background-color: blue(73, 73, 60);
+    text-align: right;
+    padding: 20px;
+  }
+  
+  
+
+  
+
+  header a {
+    color: black;
+    margin: 20px;
+    text-decoration: none;
+  }
+img
+{
+display:block;
+/* margin-left:; */
+/* margin-right:90px; */
+height: 30px;
+width: 60px;
+}
+  nav a {
+    margin-right: 30px;
+    text-decoration: none;
+  }
+
+  footer a {
+    margin: 20px;
+    text-decoration: none;
+  }
+
+  #suraj {
+    margin-right: 29px;
+  }

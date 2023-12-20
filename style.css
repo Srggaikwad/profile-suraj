@@ -1,0 +1,27 @@
+
+
+.suraj {
+    color: aqua;
+    font-family: "Merriweather", serif;
+    font-family: "Noto Sans KR", sans-serif;
+  }
+  span {
+    color: orange;
+  }
+  ul {
+    background-color: burlywood;
+  }
+
+  li
+  {
+    list-style-type: none;
+  }
+  ul li::before 
+  {
+    content:  "👉";
+  }
+
+  #para::selection
+  {
+    background-color: brown;
+  }
